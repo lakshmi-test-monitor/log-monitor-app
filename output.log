@@ -1,0 +1,7 @@
+2025-10-28 18:54:21,688 - WARNING - Job 12345 (backup): Duration 360 seconds - WARNING: Exceeded 5 minutes
+2025-10-28 18:54:21,688 - ERROR - Job 67890 (update): Duration 720 seconds - ERROR: Exceeded 10 minutes
+2025-10-28 18:55:36,638 - WARNING - Job 12345 (backup): Duration 360 seconds - WARNING: Exceeded 5 minutes
+2025-10-28 18:55:36,638 - ERROR - Job 67890 (update): Duration 720 seconds - ERROR: Exceeded 10 minutes
+2025-10-28 18:57:57,532 - WARNING - Job 12345 (backup): Duration 360 seconds - WARNING: Exceeded 5 minutes
+2025-10-28 18:57:57,532 - ERROR - Job 67890 (update): Duration 720 seconds - ERROR: Exceeded 10 minutes
+2025-10-28 18:57:57,534 - ERROR - Invalid timestamp invalid for PID 12345: time data 'invalid' does not match format '%H:%M:%S'
